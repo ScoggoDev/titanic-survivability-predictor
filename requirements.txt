@@ -1,12 +1,6 @@
-a pedido de mi mentor @edugzlez dejo las dependencias para este proyecto
-que debes instalar con pip install porque python es un lenguaje horrible
--------------------------------------------------------------------------
-by petition of my mentor @edugzlez I leave the dependencies for this project
-that you must install with pip install because python is a derp programming language
-
-pip install tensorflow
-pip install matplotlib
-pip install sci-kitlearn (sklearn lo deprecaron)
-pip install seaborn
-pip install pandas
-pip install numpy
+tensorflow
+matplotlib
+sci-kitlearn
+seaborn
+pandas
+numpy
